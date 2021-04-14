@@ -7,5 +7,5 @@ Replication of paper "Network architecture of the long-distance pathways in the 
 #### Hierachy.gml:- gml for Hierarchy
 #### 2 Python Notebooks
 #### 2 python notebook pdfs
-#### txt files from CoComac dataset
+#### txt files from CoCoMac dataset
 #### PPT file for presentation
